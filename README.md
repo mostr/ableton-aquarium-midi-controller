@@ -10,3 +10,8 @@ Based on https://github.com/laidlaw42/Ableton-Live-MIDI-Remote-Scripts
 * Long press for clip triggers to delete clip
 * Duplicate scene (delete scene with long press)
 
+
+#### Tips
+
+* Ableton logs: /Users/<username>/Library/Preferences/Ableton/Live\ 10.1.9/Log.txt
+ 
